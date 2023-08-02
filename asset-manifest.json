@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Recruitment_website/static/css/main.063eca1f.css",
+    "main.js": "/Recruitment_website/static/js/main.d0183bd5.js",
+    "static/js/787.99c8314b.chunk.js": "/Recruitment_website/static/js/787.99c8314b.chunk.js",
+    "static/media/close-up-young-business-person-doing-internship.jpg": "/Recruitment_website/static/media/close-up-young-business-person-doing-internship.f807ae8a708c65150870.jpg",
+    "static/media/woman-selecting-pictures-people.jpg": "/Recruitment_website/static/media/woman-selecting-pictures-people.79e74b07e031103d2549.jpg",
+    "static/media/smiling-asian-businesswoman-showing-document-report-her-manager-during-meeting-office.jpg": "/Recruitment_website/static/media/smiling-asian-businesswoman-showing-document-report-her-manager-during-meeting-office.ea0a1a003e99ec7dccc3.jpg",
+    "static/media/western-chinese-business-hong-kong.jpg": "/Recruitment_website/static/media/western-chinese-business-hong-kong.e07b348ec2eeafcbf333.jpg",
+    "static/media/campaign-creators-qCi_MzVODoU-unsplash.jpg": "/Recruitment_website/static/media/campaign-creators-qCi_MzVODoU-unsplash.b774ebd67fef4edddc90.jpg",
+    "static/media/24644459_Hand of HR manager choosing woman as best candidate.jpg": "/Recruitment_website/static/media/24644459_Hand of HR manager choosing woman as best candidate.64150b5c1becedf93376.jpg",
+    "index.html": "/Recruitment_website/index.html",
+    "main.063eca1f.css.map": "/Recruitment_website/static/css/main.063eca1f.css.map",
+    "main.d0183bd5.js.map": "/Recruitment_website/static/js/main.d0183bd5.js.map",
+    "787.99c8314b.chunk.js.map": "/Recruitment_website/static/js/787.99c8314b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.063eca1f.css",
+    "static/js/main.d0183bd5.js"
+  ]
+}
