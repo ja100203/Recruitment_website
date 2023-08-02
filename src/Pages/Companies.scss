@@ -1,0 +1,29 @@
+.companies{
+    height: 300px;
+    margin-top: -2rem;
+    //background-color: rgb(181, 199, 244);
+    margin-bottom: 6rem;
+}
+.companies-content p{
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 2rem;
+font-weight: 500;
+font-family: cursive;
+margin-top: 1rem;
+}
+.slider{
+    margin-top: 2rem;
+}
+@media screen and (max-width:760px) {
+    .companies-content p{
+        margin-top: 5rem;
+    }
+}
+@media screen and (max-width:650px) {
+    .companies-content p{
+        margin-left: 10rem;
+        width: 450px;
+    }
+}

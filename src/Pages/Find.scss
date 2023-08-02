@@ -1,0 +1,137 @@
+.find_container{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: wrap;
+    margin-top: 2rem;
+    min-height: 100vh;
+}
+.find{
+    width: 400px;
+    padding: 1px;
+    min-height: 400px;
+}
+.box1{
+    background:linear-gradient(rgba(5, 5, 243, 0.3),rgba(9, 172, 217, 0.3)), url(../Assets/images/close-up-young-business-person-doing-internship.jpg);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-size: 400px 600px;
+    background-repeat: no-repeat;
+}
+.box2{
+    background:linear-gradient(rgba(252, 153, 40, 0.3),rgba(238, 226, 59, 0.3)), url(../Assets/images/smiling-asian-businesswoman-showing-document-report-her-manager-during-meeting-office.jpg) ;
+    background-size: 400px 600px;
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 0 2000px rgba(247, 241, 126, 0.3);
+
+}
+.box3{
+    background:linear-gradient(rgba(89, 236, 31, 0.3),rgba(111, 249, 25, 0.3)), url(../Assets/images/western-chinese-business-hong-kong.jpg);
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-size: 400px 600px;
+    background-repeat: no-repeat;
+
+}
+.find-content{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 4rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    column-gap: 1rem;
+    color: white;
+}
+.find-content h2{
+    font-size: 1.7rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.find-content h1{
+margin-top: 1rem;
+font-size: 1.2rem;
+margin-bottom: 2rem;
+}
+.find-content button{
+width: 12rem;
+height: 4rem;
+color: white;
+font-size: 1.2rem;
+border-style: solid;
+border-color: white;
+}
+.box1 button{
+    z-index: 1;
+    background-color: rgba(6, 13, 93, 0.3);
+}
+.box2 button{
+    background-color: rgba(143, 118, 6, 0.3);
+}
+.box3 button{
+    background-color: rgba(5, 77, 28, 0.3);
+}
+@media screen and (max-width:1000px) {
+    .find-content{
+    margin-left:2rem;
+width:222px;
+    }
+    .find{
+        width: 290px;
+    }   
+}
+@media screen and (max-width:900px) {
+    .find-content{
+    margin-left:2rem;
+width:200px;
+    }
+    .find{
+        width: 250px;
+    }   
+    .find-content h2{
+        font-size: 1.2rem;
+    }
+    .find-content h1{
+        font-size: .8rem;
+    }
+    .find-content button {
+        width: 9rem;
+        height: 5rem;
+    }
+}
+@media screen and (max-width:760px) {
+    .find-content{
+    margin-left:2rem;
+width:200px;
+    }
+    .find{
+        width: 250px;
+    }   
+    .find-content h2{
+        font-size: 1.2rem;
+    }
+    .find-content h1{
+        font-size: .8rem;
+    }
+    .find-content button {
+        width: 9rem;
+        height: 5rem;
+    }
+}
+@media screen and (max-width:650px) {
+    .find{
+        margin-left: 2rem;
+        width: 266px;
+    }   
+    .box1{
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+}
+.box3{
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+}
